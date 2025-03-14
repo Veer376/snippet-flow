@@ -1,0 +1,10 @@
+strawberry-graphql
+fastapi
+uvicorn
+python-jose
+passlib
+bcrypt
+strawberry-graphql
+sqlalchemy
+psycopg2-binary  # Or just psycopg2, but binary is often easier to install
+python-multipart # Required for form data (e.g., OAuth2PasswordRequestForm)
